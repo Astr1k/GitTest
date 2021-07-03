@@ -1,5 +1,2 @@
-Test
-Feature
-
-
-NEW update x2
+MErge conflict test
+qweqweqwe
